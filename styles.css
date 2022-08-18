@@ -1,0 +1,40 @@
+* {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: large;
+}
+
+body {
+  text-align: center;
+  background-image: linear-gradient(
+    to left,
+    rgb(180, 57, 57),
+    rgb(114, 100, 100)
+  );
+}
+
+h1 {
+  font-size: 100px;
+}
+
+div {
+  border: 2px solid black;
+
+  height: 50px;
+  padding: 20px 20px;
+}
+
+div:hover {
+  background-color: bisque;
+}
+
+a {
+  font-size: 30px;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
